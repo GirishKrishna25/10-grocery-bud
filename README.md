@@ -1,5 +1,5 @@
 
-[Deploy link]('https://project-grocery-bud.netlify.app/')
+(Deploy link)['https://project-grocery-bud.netlify.app/']
 #### Grocery Bud
 - this is similar to to-do-list but dedicated to listing grocery items
 - we can add, delete, edit and clear the list and we also get alert messages for each action which will disappear automatically.
